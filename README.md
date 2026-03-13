@@ -4,7 +4,7 @@ Selamat datang ke repository rasmi **KETICK MARKET**. Platform ini merupakan mar
 
 ## 🌐 Akses Marketplace
 Anda boleh melawat stor kami secara langsung di sini:
-👉 **[https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)**
+👉 **[https://shinkeionzu-cmyk.github.io/Git4Salehttps://shinkeionzu-cmyk.github.io/Git4Sale/)**
 
 ---
 
